@@ -1,0 +1,7 @@
+Udacity Timelines
+
+Explore Weather Trends 	April 17
+Explore U.S. Bikeshare Data 	May 22
+Investigate a Dataset 	June 19
+Analyze Experiment Results 	July 10
+Final Deadline 	July 24
